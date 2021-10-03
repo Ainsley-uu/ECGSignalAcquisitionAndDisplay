@@ -32,7 +32,7 @@ Project for Embedded Advanced Experiment.
 
 + 实验系统框图
 
-  ![系统框图](\系统框图.png)
+  ![系统框图](系统框图.png)
 
 
 
